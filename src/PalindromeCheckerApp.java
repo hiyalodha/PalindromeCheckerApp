@@ -24,6 +24,7 @@ import java.util.Deque;
         String userInput = scanner.nextLine();
         displayResult(isPalindrome(userInput));
 
+
         // UC4 – Character Array Based Palindrome Check
         String uc4Word = "level";
         System.out.println("\nUC4 - Character Array Check for: " + uc4Word);
