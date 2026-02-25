@@ -34,6 +34,7 @@ import java.util.Deque;
         System.out.println("\nUC5 - Stack-Based Check for: " + uc5Word);
         displayResult(isPalindromeStack(uc5Word));
 
+
         // UC6 – Queue + Stack Based Palindrome Check
         String uc6Word = "deed";
         System.out.println("\nUC6 - Queue + Stack Check for: " + uc6Word);
