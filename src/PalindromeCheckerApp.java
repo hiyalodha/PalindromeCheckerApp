@@ -29,6 +29,7 @@ import java.util.Deque;
         System.out.println("\nUC4 - Character Array Check for: " + uc4Word);
         displayResult(isPalindromeCharArray(uc4Word));
 
+
         // UC5 – Stack-Based Palindrome Checker
         String uc5Word = "civic";
         System.out.println("\nUC5 - Stack-Based Check for: " + uc5Word);
