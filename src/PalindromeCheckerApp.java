@@ -24,15 +24,18 @@ import java.util.Deque;
         String userInput = scanner.nextLine();
         displayResult(isPalindrome(userInput));
 
+
         // UC4 – Character Array Based Palindrome Check
         String uc4Word = "level";
         System.out.println("\nUC4 - Character Array Check for: " + uc4Word);
         displayResult(isPalindromeCharArray(uc4Word));
 
+
         // UC5 – Stack-Based Palindrome Checker
         String uc5Word = "civic";
         System.out.println("\nUC5 - Stack-Based Check for: " + uc5Word);
         displayResult(isPalindromeStack(uc5Word));
+
 
         // UC6 – Queue + Stack Based Palindrome Check
         String uc6Word = "deed";
