@@ -42,7 +42,6 @@ import java.util.Deque;
         System.out.println("\nUC6 - Queue + Stack Check for: " + uc6Word);
         displayResult(isPalindromeQueueStack(uc6Word));
 
-
         // UC7 – Deque-Based Optimized Palindrome Checker
         String uc7Word = "kayak";
         System.out.println("\nUC7 - Deque-Based Check for: " + uc7Word);
