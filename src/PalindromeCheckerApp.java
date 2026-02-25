@@ -1,17 +1,10 @@
-package src;
 
 import java.util.Scanner;
 import java.util.Stack;
 import java.util.Queue;
 import java.util.LinkedList;
 import java.util.Deque;
-
-/**
- * PalindromeCheckerApp - A comprehensive console application.
- * This class handles multiple use cases for palindrome detection
- * using different data structures and algorithms.
- */
-public class PalindromeCheckerApp {
+{
 
     public static void main(String[] args) {
         // UC1 – Application Entry & Welcome Message
